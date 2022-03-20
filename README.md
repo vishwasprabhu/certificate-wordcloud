@@ -1,2 +1,2 @@
 # certificate-wordcloud
-Wordcloud of online data science certifications from Coursera, LinkedIn learning
+Wordcloud of online data science certifications and projects from Coursera and LinkedIn learning
